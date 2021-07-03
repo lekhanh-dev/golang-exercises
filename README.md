@@ -2,7 +2,7 @@
 
 | Fullname     | Class    |
 | ------------ | -------- |
-| Le Van Khanh | TFS - 02 |
+| Lê Văn Khánh | TFS - 02 |
 
 # Directory's tree
 
