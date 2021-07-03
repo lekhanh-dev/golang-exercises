@@ -1,0 +1,3 @@
+Max: 5454
+Min: 1
+Average: 1021

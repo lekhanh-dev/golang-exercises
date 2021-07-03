@@ -1,0 +1,22 @@
+1       is not prime
+23      is prime
+32       is not prime
+4343       is not prime
+5454       is not prime
+233      is prime
+5454       is not prime
+343       is not prime
+5453       is not prime
+54       is not prime
+454       is not prime
+54       is not prime
+5      is prime
+45       is not prime
+45       is not prime
+45       is not prime
+323       is not prime
+32       is not prime
+32       is not prime
+3      is prime
+23      is prime
+23      is prime
